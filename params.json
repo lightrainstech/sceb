@@ -1,6 +1,6 @@
 {
   "name": "SCEB",
   "tagline": "SCEB: Smart Contracts for Everyday Banking",
-  "body": "SCEB is a platform for financial institutions to take advantage of the blockchain based smart-contracts as templates in everyday banking.\r\n\r\n![SCEB](http://nikhilmohan.in/public/assets/sceb-logo.png)\r\n\r\n## Technology Stack\r\n\r\n1. Ethereum Blockchain\r\n2. Embark Framework\r\n3. Solidity - smart-contract language\r\n4. IPFS - decentralised file storage\r\n\r\n## Potential benefits\r\n1. Cost Reductions\r\n2. Efficiency Improvements\r\n3. Reduce Risk\r\n4. Reusable contracts\r\n5. Less paperwork  ",
+  "body": "# SCEB is a platform for financial institutions to take advantage of the blockchain based smart-contracts as templates in everyday banking.\r\n\r\n![SCEB](http://nikhilmohan.in/public/assets/sceb-logo.png)\r\n\r\n## Technology Stack\r\n\r\n1. Ethereum Blockchain\r\n2. Embark Framework\r\n3. Solidity - smart-contract language\r\n4. IPFS - decentralised file storage\r\n\r\n## Potential benefits\r\n1. Cost Reductions\r\n2. Efficiency Improvements\r\n3. Reduce Risk\r\n4. Reusable contracts\r\n5. Less paperwork  ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
